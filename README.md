@@ -1,10 +1,7 @@
 # Code With Lasa — React reCAPTCHA v3
 
 ## Video Tutorial
-Paste YouTube Link Here
-
-## GitHub Repository
-Paste GitHub Repo Link Here
+[Click Here](https://youtu.be/9DD5QLEL6c0)
 
 ## Install
 ```bash
